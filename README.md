@@ -20,7 +20,7 @@ Simulação baseada em conceitos de Física Clássica (Newton) e práticas extra
 
 ## 👥 Autores
 
-- [@xoci9](https://github.com/xoci9)
+- [@iXi](https://github.com/iiXociii)
 - [@CoutoDuarte](https://github.com/CoutoDuarte) 
 
 ---
